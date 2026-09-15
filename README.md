@@ -112,6 +112,7 @@ Platforms combining multiple data sources in one interface.
 - [CoinGlass](https://www.coinglass.com/) — Solid derivatives data, strong on liquidations and OI.
 - [TradingLite](https://tradinglite.com/) — Order flow and heatmap focused.
 - [Hyblock Capital](https://hyblockcapital.com/) — Liquidation heatmaps and delta analysis.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
